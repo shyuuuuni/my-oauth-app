@@ -1,4 +1,4 @@
-# Github 로그인으로 알아보는 OAuth 작동방식
+# Github 로그인으로 알아보는 OAuth 작동 원리
 
 ![섬네일](https://velog.velcdn.com/images/shyuuuuni/post/9319bb11-803a-4fa6-abcb-3acecd93b80f/image.png)
 
